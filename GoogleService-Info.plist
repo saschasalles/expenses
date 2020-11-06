@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>722210542764-o8p52fke16u5ueh77g7rpab9hqrol0h0.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.722210542764-o8p52fke16u5ueh77g7rpab9hqrol0h0</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBKn_sga-DRkQ46iUCFpGpfu_xoxNMFvFM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>722210542764</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.saschasalles.expenses</string>
+	<key>PROJECT_ID</key>
+	<string>expenses-fa576</string>
+	<key>STORAGE_BUCKET</key>
+	<string>expenses-fa576.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:722210542764:ios:751a59d557a0e122767b09</string>
+	<key>DATABASE_URL</key>
+	<string>https://expenses-fa576.firebaseio.com</string>
+</dict>
+</plist>
